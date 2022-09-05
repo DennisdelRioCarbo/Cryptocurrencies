@@ -1,6 +1,6 @@
 # Cryptocurrencies
 
-In this project we'll process data, cluster, reduce dimensions, and reduce the principal components using PCA, to use unsupervised machine learning. We'll be creating an analysis of the cryptocurrency market.
+In this project we'll be creating an analysis of the cryptocurrency market. We'll process data, cluster, reduce dimensions, and reduce the principal components using PCA, to use unsupervised machine learning. 
 
 The universe of cryptocurrencies is vast, so we'll create a report that includes which cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment.
 
